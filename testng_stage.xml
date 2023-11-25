@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="3" preserve-order="true" name="APIAutomationATB4X">
+    <test verbose="3" preserve-order="true" name="APIAutomationRestAssured">
     <classes>
         <class name="org.example.Misc.TestFile"></class>
     </classes>
