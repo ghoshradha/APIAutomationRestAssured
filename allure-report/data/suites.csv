@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Nov 11 20:36:09 IST 2023","Sat Nov 11 20:36:13 IST 2023","3743","All Test Suite","APIAutomationATB4X","org.example.CRUD.TC_CreateBooking","org.example.CRUD.TC_CreateBooking","testCreateBooking_negative","testCreateBooking_negative","TC#02-Verify Create booking with no payload"
+"passed","Mon Nov 06 22:23:43 IST 2023","Mon Nov 06 22:23:49 IST 2023","6534","All Test Suite","APIAutomationATB4X","org.example.Misc.TestFile","org.example.Misc.TestFile","postRequest","postRequest",""
+"passed","Sat Nov 11 20:36:13 IST 2023","Sat Nov 11 20:36:15 IST 2023","1848","All Test Suite","APIAutomationATB4X","org.example.CRUD.TC_CreateBooking","org.example.CRUD.TC_CreateBooking","testCreateBooking_positive","testCreateBooking_positive","TC#01-Verify that Create booking works and ID is generated"
